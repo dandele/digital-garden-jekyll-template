@@ -2,7 +2,7 @@
 title: Mind Garden
 ---
 
-###Che cos'è un mind garden? 
+## Che cos'è un mind garden? 
 
 Anche noto come [[Digital garden]] si tratta di una metafora, un approccio, alla propria mente, ed alle conoscenza in essa contenute, che in questi ultimi mesi sta raccogliendo sempre più proseliti online. 
 "“cultiver son jardin intérieur” means to tend to your internal garden—to take care of your mind. The garden metaphor is particularly apt: taking care of your mind involves cultivating your curiosity (the seeds), growing your knowledge (the trees), and producing new thoughts (the fruits). On the surface, it’s a repetitive process. You need consistency and patience "
