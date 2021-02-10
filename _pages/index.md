@@ -5,13 +5,12 @@ id: home
 permalink: /
 ---
 
-# Benvenuto! 🌱
+# Ciao! 👋
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Questo non è un sito web qualsiasi, si tratta di ben altro. <br>
   Questo sito è un [[mind garden]] e per navigare in esso non ti verrà posta alcuna direzione da parte mia: a te l'esplorazione più completa. <br>
-  Ti posso consigliare però di partire da <span style="font-weight: bold">[[cats|questa nota]]</span>.
-</p>
+  Ti posso consigliare però di partire da <span style="font-weight: bold">[[cats|questa nota]]</span>.</p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
