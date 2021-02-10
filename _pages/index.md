@@ -8,8 +8,8 @@ permalink: /
 # Benvenuto nel mio Digital Garden! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Questo non è un sito web qualsiasi, si tratta di ben altro.
-  Questo sito è un [[mind-garden]] e per navigare in esso non ti verrà posta alcuna direzione da parte mia: a te l'esplorazione più completa.
+  Questo non è un sito web qualsiasi, si tratta di ben altro. <br>
+  Questo sito è un [[mind garden]] e per navigare in esso non ti verrà posta alcuna direzione da parte mia: a te l'esplorazione più completa. <br>
   Ti posso consigliare di partire da <span style="font-weight: bold">[[questa nota]]</span> to get started on your exploration.
 </p>
 
