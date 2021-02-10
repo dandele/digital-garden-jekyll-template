@@ -42,11 +42,12 @@ img {
   margin: 0 auto;
   max-height: 75vh;
   border-radius: $border-radius;
-  
-  @media (max-width: 320px) {
-  width: 30%;
-  }
+}
 
+@media screen and (max-width: 300px) {
+  img {
+    width: 20%;
+  }
 }
 
 blockquote {
