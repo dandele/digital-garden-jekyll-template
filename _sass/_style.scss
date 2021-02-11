@@ -111,17 +111,11 @@ a {
 nav {
   display: flex;
   margin: 0 0 3em;
-  background: red;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
-#seconda_colonna {
-  align-self: flex-end;
-}
 
-#prima_colonna {
-  align-self: flex-start;
-}
 
 #notes-entry-container {
   display: grid;
