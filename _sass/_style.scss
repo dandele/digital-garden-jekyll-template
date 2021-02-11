@@ -112,7 +112,10 @@ nav {
   display: flex;
   margin: 0 0 3em;
   background: red;
-  justify-content: space-evenly;
+}
+
+#seconda_colonna {
+  justify-content: flex-end;
 }
 
 #notes-entry-container {
